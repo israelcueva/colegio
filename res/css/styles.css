@@ -168,4 +168,7 @@ a {
     .navbar-brand{
         font-size: .7em;
     }
+    .pre-nav{
+        display: none;
+    }
 }
