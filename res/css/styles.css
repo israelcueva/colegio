@@ -164,8 +164,7 @@ a {
     align-items: center;
     display: flex;
     white-space: nowrap;
-    margin-right: 2em;
-    margin-bottom: 1em;
+    margin: 1em 2em 1em 0;
 }
 
 .section-wraper  article .footer .links {
